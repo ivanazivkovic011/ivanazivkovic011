@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ivana Zivkovic
+## Chief of Staff × AI Operations Strategist × Human-Centered Systems
 
-<!--
-**ivanazivkovic011/ivanazivkovic011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make AI initiatives actually work inside complex human organizations.
+15+ years turning organizational chaos into measurable results — now 
+deploying that expertise at the intersection of AI, operations, and 
+human-centered design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Build
+- 🤖 AI agents for recruiting, operations, and organizational intelligence
+- 📊 Operational frameworks for high-stakes organizational transitions  
+- 🎯 Human-centered systems that scale
+
+### Current Work
+- Building AI-powered operations toolkit for Chief of Staff functions
+- MS in Artificial Intelligence (AI Management & Policy) — In Progress
+- IBM AI Foundations for Business — UC Davis SQL for Data Science (April 2026)
+
+### Background
+Chief of Staff | Wellness-Tech Co-Founder | Healthcare Operations | 
+Biotech | Financial Services | MSc Psychology & Neuroscience (King's College London)
+
+### Connect
+[LinkedIn](https://linkedin.com/in/ivanazivkovic011) | 
+[Portfolio](https://ivanazivkovic.xyz) | 
+zhivka011@gmail.com
