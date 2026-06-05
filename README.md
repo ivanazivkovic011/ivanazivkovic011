@@ -1,28 +1,36 @@
 # Ivana Zivkovic
-## Chief of Staff × AI Operations Strategist × Human-Centered Systems
+### Chief of Staff  ×  AI Operations Strategist  ×  Human-Centered Systems
 
 I make AI initiatives actually work inside complex human organizations.
-15+ years turning organizational chaos into measurable results — now 
-deploying that expertise at the intersection of AI, operations, and 
-human-centered design.
+An experienced career turning organizational chaos into measurable results,
+now deploying that expertise at the intersection of AI, operations, and
+human-centered design. Multilingual: EN / SR / ES / FR.
 
 ---
 
-### What I Build
-- 🤖 AI agents for recruiting, operations, and organizational intelligence
-- 📊 Operational frameworks for high-stakes organizational transitions  
-- 🎯 Human-centered systems that scale
+## What I Build
 
-### Current Work
-- Building AI-powered operations toolkit for Chief of Staff functions
-- MS in Artificial Intelligence (AI Management & Policy) — In Progress
-- IBM AI Foundations for Business — UC Davis SQL for Data Science (April 2026)
+- AI agents for recruiting, operations, and organizational intelligence
+- Operational frameworks for high-stakes organizational transitions
+- Human-centered systems that scale without breaking
 
-### Background
-Chief of Staff | Wellness-Tech Co-Founder | Healthcare Operations | 
-Biotech | Financial Services | MSc Psychology & Neuroscience (King's College London)
+---
 
-### Connect
-[LinkedIn](https://linkedin.com/in/ivanazivkovic011) | 
-[Portfolio](https://ivanazivkovic.xyz) | 
-zhivka011@gmail.com
+## Current Work
+
+- **AI Operations Toolkit** — suite of deployed agents for Chief of Staff functions
+  (Alex / Elite Recruiter, ATLAS Financial Intelligence System, Job Scout, Company Qualifier)
+- **Kellogg AI Strategies for Business Transformation** — Northwestern University (2026)
+
+---
+
+## Background
+
+Chief of Staff  ·  Wellness-Tech Co-Founder  ·  Healthcare Operations  ·
+Biotech  ·  Financial Services  ·  MSc Psychology & Neuroscience, King's College London
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/ivanazivkovic011) | [Portfolio](https://ivanazivkovic.xyz/)
